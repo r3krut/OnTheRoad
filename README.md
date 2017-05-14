@@ -6,7 +6,7 @@
 
 ===================================================================
 
-<p> Our app allows you to keep a diary of travels. You can share your travels to the <i>Twitter</i> and <i>Facebook</i>. You can also add a new trip. You can add a descriptions to your new travel by hand or use a built-in capabilities text recognition from image with a help TesseractOCR framework.</p>
+<p> Our app allows you to keep a diary of travels. You can share your travels to the <i><a href="https://twitter.com/">Twitter</a></i> and <i><a href="https://en-gb.facebook.com/">Facebook</a></i>. You can also add a new trip. You can add a descriptions to your new travel by hand or use a built-in capabilities text recognition from image with a help TesseractOCR framework.</p>
 
 ===================================================================
 
@@ -17,7 +17,7 @@
       <li>Use the text recognition from images for descriptions</li>
       <li>Get local notifications</li>
       <li>Make mark about country or city on the map before sharing</li>
-      <li>etc.</li>
+      <li>Etc.</li>
     </ol>
 </p>
 
@@ -29,6 +29,7 @@
     <li><a href="https://vk.com/id255099048">Michael Tananakin</a></li>
     </ul>
 </p>
+
 
 
 <h2>Enjoy it!</h2>
