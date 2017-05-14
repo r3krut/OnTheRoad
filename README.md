@@ -10,7 +10,7 @@
 
 ===================================================================
 
-<p> Functionality
+<p> <b>Functionality</b>
     <ol>
       <li>Add new travel or delete old travels</li>
       <li>Share your travels to social nets</li>
@@ -23,7 +23,7 @@
 
 ===================================================================
 
-<p> Out team
+<p> <b>Out team</b>
     <ul>
     <li><a href="https://vk.com/dmlitov4">Dmitry Litovchenko</a></li>
     <li><a href="https://vk.com/id255099048">Michael Tananakin</a></li>
